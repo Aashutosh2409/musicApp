@@ -1,2 +1,2 @@
 # musicApp
-UI based Musical App
+UI based Musical Android App
