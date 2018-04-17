@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         // TODO: Create a new SoundPool
         //created a brand new sound pull object by calling the constructior and you did this by supplying 3 inputs
-        //it has be assigned to mSoundPool memeber variable...
+        //it has be assigned to mSoundPool member variable...
         mSoundPool=new SoundPool(NR_OF_SIMULTANEOUS_SOUNDS, AudioManager.STREAM_MUSIC,0);
 
         // TODO: Load and get the IDs to identify the sounds
