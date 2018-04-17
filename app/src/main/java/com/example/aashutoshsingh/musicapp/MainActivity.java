@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
     private int mGSoundId;
     private int mASoundId;
     private int mBSoundId;
-    int iCanBeUsedIntheWholeClass;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
